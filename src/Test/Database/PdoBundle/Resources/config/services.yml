@@ -1,0 +1,4 @@
+services:
+#    test_database_pdo.example:
+#        class: Test\Database\PdoBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

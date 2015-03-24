@@ -1,0 +1,4 @@
+test_database_pdo:
+    resource: "@TestDatabasePdoBundle/Resources/config/routing.yml"
+    prefix:   /test/pdo
+

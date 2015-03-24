@@ -1,0 +1,3 @@
+test_database_pdo_update:
+    path:     /update
+    defaults: { _controller: TestDatabasePdoBundle:Update:index }
