@@ -18,7 +18,7 @@ class AppKernel extends Kernel
             new Sensio\Bundle\FrameworkExtraBundle\SensioFrameworkExtraBundle(),
 
             new Lia\KernelBundle\LiaKernelBundle(),
-            new \Lia\ThemeBundle\LiaThemeBundle(),
+            new Lia\ThemeBundle\LiaThemeBundle(),
             new Lia\Database\PdoBundle\LiaDatabasePdoBundle(),
         );
 
